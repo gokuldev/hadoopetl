@@ -1,0 +1,4 @@
+Deployment checklist
+
+#1: Create the hive database
+Command: create database hadoopetldev location '/user/datatitan/hive/hadoopetldev';
