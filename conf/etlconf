@@ -1,3 +1,4 @@
+# making a change
 # Hive related properties
 export hiveSchema=hadoopetldev
 export hiveWarehousePath=/user/datatitan/hive/hadoopetldev
