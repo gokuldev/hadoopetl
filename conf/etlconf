@@ -1,0 +1,8 @@
+# Hive related properties
+export hiveSchema=hadoopetldev
+export hiveWarehousePath=/user/datatitan/hive/hadoopetldev
+# Project related properties
+export projPath=/home/datatitan/hadoopetl
+export binPath=${projPath}/bin
+export confPath=${projPath}/conf
+export hqlPath=${projPath}/hive
